@@ -1,1 +1,1 @@
-# graph-collection
+# charts-collection
